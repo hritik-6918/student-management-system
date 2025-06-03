@@ -84,7 +84,7 @@ cd student-management-system
 
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/sms?useSSL=false&serverTimezone=UTC
-spring.datasource.username=root
+spring.datasource.username=YOUR_USERNAME
 spring.datasource.password=YOUR_PASSWORD
 ```
 
